@@ -1,7 +1,7 @@
 # Neural-networks-for-ERNIE-architecture
 Neural networks for ERNIE architecture; trained with redesigned FC layers, quantized activations, noisy ensembles, etc. 
 
-iPython file in the main directory includes results from our run, and we highly recommend you use IPython to understand how different blocks of code works.
+iPython file in the main directory includes results from our run, and we highly recommend you use IPython to understand how different blocks of code works. For this, Jupyter Notebook is needed. We used Anaconda which satisfies all the dependencies.
 
 train_sample.py file is the python file version of the iPython notebook file "4layer784-256-256-256-10-splitted-3level-extLoad.ipynb"
 
