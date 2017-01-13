@@ -16,3 +16,6 @@ Experiment name convention is as follows:
 -extLoad-: Initial weights are externally loaded up to layer N-1 after training a N-1 layer network. After this initial parameters are loaded, the whole N-layer network is trained together. All pretrained models can be found in the folder /SavedModelVars . To run the code successfully, you need to move this folder under your /tmp/ directory.
 
 More detailed comments are given inside iPython notebook "4layer784-256-256-256-10-splitted-3level-extLoad.ipynb" in the main directory.
+
+
+Contributors: Sukru Burc Eryilmaz, Weier Wan
